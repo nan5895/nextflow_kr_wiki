@@ -5,18 +5,7 @@ title: Nextflow Korea
 
 # Nextflow Korea 문서
 
-Nextflow 워크플로우 관리 시스템 한국어 가이드입니다.
-
-## 시작하기
-
-Nextflow는 데이터 중심의 계산 파이프라인을 작성하고 실행할 수 있게 해주는 워크플로우 관리 시스템입니다.
-
-### 주요 특징
-
-- **이식성**: Docker, Singularity, Conda 지원
-- **확장성**: 로컬부터 클라우드까지
-- **재현성**: 버전 관리 및 의존성 관리
-- **병렬성**: 자동 병렬 처리
+Nextflow KR 그룹의 Wiki page 입니다
 
 ## 문서 섹션
 
@@ -29,18 +18,10 @@ Nextflow는 데이터 중심의 계산 파이프라인을 작성하고 실행할
 ### [아카이브](archive.html)
 과거 자료 및 참고 문서
 
-## 빠른 시작
-
-```bash
-# Nextflow 설치
-curl -s https://get.nextflow.io | bash
-
-# 첫 번째 실행
-./nextflow run hello
-```
 
 ## 커뮤니티
 
-- [GitHub](https://github.com/nextflow-io/nextflow)
-- [공식 문서](https://www.nextflow.io/docs/latest/index.html)
-- [Slack](https://nextflow.slack.com/)
+-  [linktree](https://linktr.ee/workflowKR)
+-  [유튜브강의](https://youtube.com/@workflowlanguage?si=Bva11U56JBqiiQPm)
+- [Kakatalk 오픈채팅방](https://open.kakao.com/o/gzlol4Zg)
+- [Slack](https://join.slack.com/t/workflowlanguagekr/shared_invite/zt-3d9qj1bfb-M7drqmNwyF5ycZhYEugMdQ)
