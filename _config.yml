@@ -1,0 +1,16 @@
+title: Nextflow Korea
+description: Nextflow 워크플로우 관리 시스템 한국어 가이드
+baseurl: ""
+url: "https://yourusername.github.io"
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
