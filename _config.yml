@@ -1,7 +1,7 @@
 title: Nextflow Korea
 description: Nextflow 워크플로우 관리 시스템 한국어 가이드
-baseurl: ""
-url: "https://yourusername.github.io"
+baseurl: "/nextflow_kr_wiki"
+url: "https://nan5895.github.io"
 
 markdown: kramdown
 highlighter: rouge
