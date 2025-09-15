@@ -10,14 +10,14 @@ permalink: /slides/
 
 ## 최신 자료
 
-### [Nextflow Korea 2025](slides/26082025_Nextflow_KR.pdf)
+### [8월 26일 발표자료](slides/26082025_Nextflow_KR.pdf)
 - 날짜: 2025년 8월 26일
 - 내용: 8월 26일 발표자료
 - 형식: PDF
 
 ## 기초 자료
 
-### [Nextflow Korea 2025](slides/26082025_Nextflow_KR.pdf)
+### [26082025 자료](slides/26082025_Nextflow_KR.pdf)
 - 날짜: 2025년 8월 26일
 - 내용: Nextflow 한국어 가이드 소개
 - 형식: PDF
