@@ -9,13 +9,13 @@ Nextflow KR 그룹의 Wiki page 입니다
 
 ## 문서 섹션
 
-### [튜토리얼](tutorials.html)
+### [튜토리얼](tutorials.md)
 단계별 Nextflow 학습 가이드
 
-### [슬라이드](slides.html)  
+### [슬라이드](slides.md)  
 발표 자료 및 교육 슬라이드
 
-### [아카이브](archive.html)
+### [아카이브](archive.md)
 과거 자료 및 참고 문서
 
 
